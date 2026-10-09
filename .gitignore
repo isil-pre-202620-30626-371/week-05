@@ -1,0 +1,9 @@
+# Compiled files
+bin/
+*.class
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
